@@ -1,0 +1,9 @@
+object Solution {
+    def runningSum(nums: Array[Int]): Array[Int] = {
+        import Array._
+        for (i <- 1 until nums.length) {
+            nums(i) = nums(i) + nums(i-1)
+        }
+        return nums
+    }
+}

@@ -1,0 +1,1 @@
+scalac -bootclasspath C:\Users\user\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.3\scala-library-2.13.3.jar -classpath C:\Users\user\Desktop\Scala_\sum_of_1d_array\target\scala-2.13\classes C:\Users\user\Desktop\Scala_\sum_of_1d_array\src\main\scala\Sum.scala

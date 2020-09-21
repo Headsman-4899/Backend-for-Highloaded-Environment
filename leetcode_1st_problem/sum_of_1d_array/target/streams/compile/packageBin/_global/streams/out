@@ -1,0 +1,9 @@
+[debug] Packaging C:\Users\user\Desktop\Scala_\sum_of_1d_array\target\scala-2.13\sum_of_1d_array_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	Sum$.class
+[debug] 	  C:\Users\user\Desktop\Scala_\sum_of_1d_array\target\scala-2.13\classes\Sum$.class
+[debug] 	Sum$delayedInit$body.class
+[debug] 	  C:\Users\user\Desktop\Scala_\sum_of_1d_array\target\scala-2.13\classes\Sum$delayedInit$body.class
+[debug] 	Sum.class
+[debug] 	  C:\Users\user\Desktop\Scala_\sum_of_1d_array\target\scala-2.13\classes\Sum.class
+[debug] Done packaging.
