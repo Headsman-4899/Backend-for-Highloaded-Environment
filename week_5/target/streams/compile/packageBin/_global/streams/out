@@ -1,0 +1,47 @@
+[debug] Packaging C:\Users\user\Desktop\Scala_Backend\week_5\target\scala-2.13\sis_5_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	Main$.class
+[debug] 	  C:\Users\user\Desktop\Scala_Backend\week_5\target\scala-2.13\classes\Main$.class
+[debug] 	Main$anon$importedEncoder$macro$13$1$$anon$1.class
+[debug] 	  C:\Users\user\Desktop\Scala_Backend\week_5\target\scala-2.13\classes\Main$anon$importedEncoder$macro$13$1$$anon$1.class
+[debug] 	Main$anon$importedEncoder$macro$13$1$$anon$2.class
+[debug] 	  C:\Users\user\Desktop\Scala_Backend\week_5\target\scala-2.13\classes\Main$anon$importedEncoder$macro$13$1$$anon$2.class
+[debug] 	Main$anon$importedEncoder$macro$13$1$anon$macro$11$1.class
+[debug] 	  C:\Users\user\Desktop\Scala_Backend\week_5\target\scala-2.13\classes\Main$anon$importedEncoder$macro$13$1$anon$macro$11$1.class
+[debug] 	Main$anon$importedEncoder$macro$13$1.class
+[debug] 	  C:\Users\user\Desktop\Scala_Backend\week_5\target\scala-2.13\classes\Main$anon$importedEncoder$macro$13$1.class
+[debug] 	Main$delayedInit$body.class
+[debug] 	  C:\Users\user\Desktop\Scala_Backend\week_5\target\scala-2.13\classes\Main$delayedInit$body.class
+[debug] 	Main$Fun$.class
+[debug] 	  C:\Users\user\Desktop\Scala_Backend\week_5\target\scala-2.13\classes\Main$Fun$.class
+[debug] 	Main$Fun.class
+[debug] 	  C:\Users\user\Desktop\Scala_Backend\week_5\target\scala-2.13\classes\Main$Fun.class
+[debug] 	Main.class
+[debug] 	  C:\Users\user\Desktop\Scala_Backend\week_5\target\scala-2.13\classes\Main.class
+[debug] 	SecondMain$.class
+[debug] 	  C:\Users\user\Desktop\Scala_Backend\week_5\target\scala-2.13\classes\SecondMain$.class
+[debug] 	SecondMain$anon$importedEncoder$macro$15$1$$anon$1.class
+[debug] 	  C:\Users\user\Desktop\Scala_Backend\week_5\target\scala-2.13\classes\SecondMain$anon$importedEncoder$macro$15$1$$anon$1.class
+[debug] 	SecondMain$anon$importedEncoder$macro$15$1$$anon$2.class
+[debug] 	  C:\Users\user\Desktop\Scala_Backend\week_5\target\scala-2.13\classes\SecondMain$anon$importedEncoder$macro$15$1$$anon$2.class
+[debug] 	SecondMain$anon$importedEncoder$macro$15$1$$anon$3.class
+[debug] 	  C:\Users\user\Desktop\Scala_Backend\week_5\target\scala-2.13\classes\SecondMain$anon$importedEncoder$macro$15$1$$anon$3.class
+[debug] 	SecondMain$anon$importedEncoder$macro$15$1$$anon$4.class
+[debug] 	  C:\Users\user\Desktop\Scala_Backend\week_5\target\scala-2.13\classes\SecondMain$anon$importedEncoder$macro$15$1$$anon$4.class
+[debug] 	SecondMain$anon$importedEncoder$macro$15$1$anon$macro$13$1.class
+[debug] 	  C:\Users\user\Desktop\Scala_Backend\week_5\target\scala-2.13\classes\SecondMain$anon$importedEncoder$macro$15$1$anon$macro$13$1.class
+[debug] 	SecondMain$anon$importedEncoder$macro$15$1$anon$macro$2$1.class
+[debug] 	  C:\Users\user\Desktop\Scala_Backend\week_5\target\scala-2.13\classes\SecondMain$anon$importedEncoder$macro$15$1$anon$macro$2$1.class
+[debug] 	SecondMain$anon$importedEncoder$macro$15$1.class
+[debug] 	  C:\Users\user\Desktop\Scala_Backend\week_5\target\scala-2.13\classes\SecondMain$anon$importedEncoder$macro$15$1.class
+[debug] 	SecondMain$Check.class
+[debug] 	  C:\Users\user\Desktop\Scala_Backend\week_5\target\scala-2.13\classes\SecondMain$Check.class
+[debug] 	SecondMain$delayedInit$body.class
+[debug] 	  C:\Users\user\Desktop\Scala_Backend\week_5\target\scala-2.13\classes\SecondMain$delayedInit$body.class
+[debug] 	SecondMain$Product$.class
+[debug] 	  C:\Users\user\Desktop\Scala_Backend\week_5\target\scala-2.13\classes\SecondMain$Product$.class
+[debug] 	SecondMain$Product.class
+[debug] 	  C:\Users\user\Desktop\Scala_Backend\week_5\target\scala-2.13\classes\SecondMain$Product.class
+[debug] 	SecondMain.class
+[debug] 	  C:\Users\user\Desktop\Scala_Backend\week_5\target\scala-2.13\classes\SecondMain.class
+[debug] Done packaging.
