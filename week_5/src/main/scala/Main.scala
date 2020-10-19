@@ -1,5 +1,10 @@
 import scala.util.matching.Regex
-import io.circe._, io.circe.generic.auto._, io.circe.parser._, io.circe.syntax._
+import io.circe._
+import io.circe.generic.auto._
+import io.circe.parser._
+import io.circe.syntax._
+
+import scala.collection.mutable.ArrayBuffer
 import scala.io.Source
 
 object Main extends App {
@@ -38,6 +43,7 @@ object Main extends App {
 //  }
 //  Encoder[Fun].apply(data(0)).toString()
 ////  println(data)
+
 }
 
 

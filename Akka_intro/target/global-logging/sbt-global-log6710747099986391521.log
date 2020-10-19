@@ -1,0 +1,19 @@
+[debug] > Exec(run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 4 Scala sources to C:\Users\user\Desktop\Scala_Backend\Akka_intro\target\scala-2.13\classes ...
+[warn] C:\Users\user\Desktop\Scala_Backend\Akka_intro\src\main\scala\Mouth.scala:26:9: match may not be exhaustive.
+[warn] It would fail on the following input: ListingResponse(_)
+[warn]         message match {
+[warn]         ^
+[warn] one warning found
+[info] done compiling
+[debug] Forcing garbage collection...
+[success] Total time: 3 s, completed 17 окт. 2020 г., 18:57:00
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

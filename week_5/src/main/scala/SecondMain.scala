@@ -2,6 +2,7 @@ import io.circe._, io.circe.generic.auto._, io.circe.parser._, io.circe.syntax._
 import scala.io.Source
 import scala.util.matching.Regex
 
+
 object SecondMain extends App {
 
   val filename = "C:\\Users\\user\\Downloads\\raw1.txt"
@@ -27,5 +28,6 @@ object SecondMain extends App {
 
 //  val decodedJson = decode[Check](json)
 //  println(decodedJson)
+
 
 }
