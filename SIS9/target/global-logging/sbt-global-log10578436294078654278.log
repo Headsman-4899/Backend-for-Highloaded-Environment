@@ -1,0 +1,13 @@
+[debug] > Exec(chmod +x deploy.sh, None, None)
+[error] Expected ID character
+[error] Not a valid command: chmod
+[error] Expected project ID
+[error] Expected configuration
+[error] Expected ':'
+[error] Expected key
+[error] Not a valid key: chmod (similar: scmInfo, watched)
+[error] chmod +x deploy.sh
+[error]      ^
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

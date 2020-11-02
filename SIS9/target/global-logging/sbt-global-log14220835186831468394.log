@@ -1,0 +1,13 @@
+[debug] > Exec(docker run -it -p 9000:9000 akkahttp-auickstart:0.1, None, None)
+[error] Expected ID character
+[error] Not a valid command: docker
+[error] Expected project ID
+[error] Expected configuration
+[error] Expected ':'
+[error] Expected key
+[error] Not a valid key: docker (similar: dockerCmd, dockerAlias, doc)
+[error] docker run -it -p 9000:9000 akkahttp-auickstart:0.1
+[error]       ^
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

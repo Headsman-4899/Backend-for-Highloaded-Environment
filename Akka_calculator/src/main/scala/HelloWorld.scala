@@ -7,7 +7,7 @@ object HelloWorld {
   final case class Greeted(whom: String, from: ActorRef[Greet])
 
   def apply(): Behavior[Greet] = Behaviors.receive { (context, message) =>
-    context.log.info("Hello {}!", message.whom)
+    context.log.info(message.whom)
     message.replyTo ! Greeted(message.whom, context.self)
     Behaviors.same
   }

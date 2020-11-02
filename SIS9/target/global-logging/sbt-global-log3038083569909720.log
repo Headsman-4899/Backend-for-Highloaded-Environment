@@ -1,0 +1,10 @@
+[debug] > Exec(run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 10 Scala sources to C:\Users\user\Desktop\KBTU 3-1\Scala_Backend\SIS9\target\scala-2.13\classes ...
+[warn] C:\Users\user\Desktop\KBTU 3-1\Scala_Backend\SIS9\src\main\scala\AddressBookDirectives.scala:13:69: match may not be exhaustive.
+[warn] It would fail on the following input: Failure(_)
+[warn]   (e: Throwable => ApiError): Directive1[T] = onComplete(f) flatMap {
+[warn]                                                                     ^
+[warn] one warning found
+[info] done compiling

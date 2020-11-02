@@ -1,0 +1,6 @@
+[debug] Acquiring lock on file C:\Users\user\Desktop\KBTU 3-1\Scala_Backend\SIS7\project\target\.sbt-compilation-infos\sis7-compile\.sbt-idea-lock ...
+[warn] C:\Users\user\Desktop\KBTU 3-1\Scala_Backend\SIS7\src\main\scala\HttpServerExample.scala:11:21: imported `Router` is permanently hidden by definition of trait Router
+[warn] import akka.routing.Router
+[warn]                     ^
+[warn] one warning found
+[debug] Releasing lock on file C:\Users\user\Desktop\KBTU 3-1\Scala_Backend\SIS7\project\target\.sbt-compilation-infos\sis7-compile\.sbt-idea-lock.

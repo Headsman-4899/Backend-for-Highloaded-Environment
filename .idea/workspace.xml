@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf2309b4-3238-4f09-bc08-05361ed22641" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/project/target/config-classes/$384522bb5f0242456c85$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/project/target/config-classes/$384522bb5f0242456c85.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/project/target/config-classes/$384522bb5f0242456c85.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/project/target/config-classes/$3e934ec722766a7e1df7$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/project/target/config-classes/$3e934ec722766a7e1df7.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/project/target/config-classes/$3e934ec722766a7e1df7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/project/target/config-classes/$956937a10bf62024eeee$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/project/target/config-classes/$956937a10bf62024eeee.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/project/target/config-classes/$956937a10bf62024eeee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/project/target/config-classes/$b679ef97b4edeeab5dc9$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/project/target/config-classes/$b679ef97b4edeeab5dc9.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/project/target/config-classes/$b679ef97b4edeeab5dc9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/project/target/config-classes/$b7918cabd955cdf5807b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/project/target/config-classes/$b7918cabd955cdf5807b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/project/target/config-classes/$b7918cabd955cdf5807b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/project/target/config-classes/$c5e7a27a364eca626bdf$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/project/target/config-classes/$c5e7a27a364eca626bdf.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/project/target/config-classes/$c5e7a27a364eca626bdf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/project/target/config-classes/$e83622ebded7a64944f7$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/project/target/config-classes/$e83622ebded7a64944f7.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/project/target/config-classes/$e83622ebded7a64944f7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/Akka_calculator/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/Akka_calculator/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/Akka_calculator/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/Akka_calculator/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Akka_calculator/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Akka_calculator/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Akka_calculator/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Akka_calculator/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Akka_calculator/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Akka_calculator/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/project/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Akka_calculator/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/src/main/scala/Calculator.scala" beforeDir="false" afterPath="$PROJECT_DIR$/Akka_calculator/src/main/scala/Calculator.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/src/main/scala/HelloWorld.scala" beforeDir="false" afterPath="$PROJECT_DIR$/Akka_calculator/src/main/scala/HelloWorld.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/target/global-logging/sbt-global-log10629386008972346587.log" beforeDir="false" afterPath="$PROJECT_DIR$/Akka_calculator/target/global-logging/sbt-global-log10629386008972346587.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/Akka_calculator/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Akka_calculator/target/streams/compile/packageBin/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/Akka_calculator/target/streams/compile/packageBin/_global/streams/out" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1jjNu0Y5ZE0O1qMSzk6gM8DN7eQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SIS9" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf2309b4-3238-4f09-bc08-05361ed22641" name="Default Changelist" comment="" />
+      <created>1604313761296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604313761296</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="207" key="FileChooserDialogImpl" timestamp="1604313798379">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="549" y="207" key="FileChooserDialogImpl/0.40.1536.824@0.40.1536.824" timestamp="1604313798379" />
+  </component>
+</project>

@@ -1,0 +1,39 @@
+[debug] Packaging C:\Users\user\Desktop\KBTU 3-1\Scala_Backend\SIS7\target\scala-2.13\sis7_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	HttpServerSample$.class
+[debug] 	  C:\Users\user\Desktop\KBTU 3-1\Scala_Backend\SIS7\target\scala-2.13\classes\HttpServerSample$.class
+[debug] 	HttpServerSample.class
+[debug] 	  C:\Users\user\Desktop\KBTU 3-1\Scala_Backend\SIS7\target\scala-2.13\classes\HttpServerSample.class
+[debug] 	InMemoryTodoRepository$.class
+[debug] 	  C:\Users\user\Desktop\KBTU 3-1\Scala_Backend\SIS7\target\scala-2.13\classes\InMemoryTodoRepository$.class
+[debug] 	InMemoryTodoRepository.class
+[debug] 	  C:\Users\user\Desktop\KBTU 3-1\Scala_Backend\SIS7\target\scala-2.13\classes\InMemoryTodoRepository.class
+[debug] 	MyRouter$anon$importedEncoder$macro$159$1$$anon$1.class
+[debug] 	  C:\Users\user\Desktop\KBTU 3-1\Scala_Backend\SIS7\target\scala-2.13\classes\MyRouter$anon$importedEncoder$macro$159$1$$anon$1.class
+[debug] 	MyRouter$anon$importedEncoder$macro$159$1$$anon$2.class
+[debug] 	  C:\Users\user\Desktop\KBTU 3-1\Scala_Backend\SIS7\target\scala-2.13\classes\MyRouter$anon$importedEncoder$macro$159$1$$anon$2.class
+[debug] 	MyRouter$anon$importedEncoder$macro$159$1$anon$macro$157$1.class
+[debug] 	  C:\Users\user\Desktop\KBTU 3-1\Scala_Backend\SIS7\target\scala-2.13\classes\MyRouter$anon$importedEncoder$macro$159$1$anon$macro$157$1.class
+[debug] 	MyRouter$anon$importedEncoder$macro$159$1.class
+[debug] 	  C:\Users\user\Desktop\KBTU 3-1\Scala_Backend\SIS7\target\scala-2.13\classes\MyRouter$anon$importedEncoder$macro$159$1.class
+[debug] 	MyRouter$db$.class
+[debug] 	  C:\Users\user\Desktop\KBTU 3-1\Scala_Backend\SIS7\target\scala-2.13\classes\MyRouter$db$.class
+[debug] 	MyRouter$Video$.class
+[debug] 	  C:\Users\user\Desktop\KBTU 3-1\Scala_Backend\SIS7\target\scala-2.13\classes\MyRouter$Video$.class
+[debug] 	MyRouter$Video.class
+[debug] 	  C:\Users\user\Desktop\KBTU 3-1\Scala_Backend\SIS7\target\scala-2.13\classes\MyRouter$Video.class
+[debug] 	MyRouter.class
+[debug] 	  C:\Users\user\Desktop\KBTU 3-1\Scala_Backend\SIS7\target\scala-2.13\classes\MyRouter.class
+[debug] 	MyServer$.class
+[debug] 	  C:\Users\user\Desktop\KBTU 3-1\Scala_Backend\SIS7\target\scala-2.13\classes\MyServer$.class
+[debug] 	MyServer.class
+[debug] 	  C:\Users\user\Desktop\KBTU 3-1\Scala_Backend\SIS7\target\scala-2.13\classes\MyServer.class
+[debug] 	Router.class
+[debug] 	  C:\Users\user\Desktop\KBTU 3-1\Scala_Backend\SIS7\target\scala-2.13\classes\Router.class
+[debug] 	Todo$.class
+[debug] 	  C:\Users\user\Desktop\KBTU 3-1\Scala_Backend\SIS7\target\scala-2.13\classes\Todo$.class
+[debug] 	Todo.class
+[debug] 	  C:\Users\user\Desktop\KBTU 3-1\Scala_Backend\SIS7\target\scala-2.13\classes\Todo.class
+[debug] 	TodoRepository.class
+[debug] 	  C:\Users\user\Desktop\KBTU 3-1\Scala_Backend\SIS7\target\scala-2.13\classes\TodoRepository.class
+[debug] Done packaging.

@@ -1,0 +1,44 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\user\Desktop\KBTU 3-1\Scala_Backend\SIS7\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] 	MyRouter$Video$.class
+[debug] 	MyRouter$anon$importedEncoder$macro$159$1.class
+[debug] 	MyRouter$db$.class
+[debug] 	MyRouter.class
+[debug] 	MyRouter$anon$importedEncoder$macro$159$1$$anon$2.class
+[debug] 	MyRouter$anon$importedEncoder$macro$159$1$anon$macro$157$1.class
+[debug] 	HttpServerSample$.class
+[debug] 	MyRouter$Video.class
+[debug] 	MyServer$.class
+[debug] 	MyServer.class
+[debug] 	Router.class
+[debug] 	HttpServerSample.class
+[debug] 	MyRouter$anon$importedEncoder$macro$159$1$$anon$1.class
+[debug] We backup class files:
+[debug] 	MyRouter$Video$.class
+[debug] 	MyRouter$anon$importedEncoder$macro$159$1.class
+[debug] 	MyRouter$db$.class
+[debug] 	MyRouter.class
+[debug] 	MyRouter$anon$importedEncoder$macro$159$1$$anon$2.class
+[debug] 	MyRouter$anon$importedEncoder$macro$159$1$anon$macro$157$1.class
+[debug] 	HttpServerSample$.class
+[debug] 	MyRouter$Video.class
+[debug] 	MyServer$.class
+[debug] 	MyServer.class
+[debug] 	Router.class
+[debug] 	HttpServerSample.class
+[debug] 	MyRouter$anon$importedEncoder$macro$159$1$$anon$1.class
+[debug] Registering generated classes:
+[debug] 	MyRouter$Video$.class
+[debug] 	MyRouter$anon$importedEncoder$macro$159$1.class
+[debug] 	MyRouter$db$.class
+[debug] 	MyRouter.class
+[debug] 	MyRouter$anon$importedEncoder$macro$159$1$$anon$2.class
+[debug] 	MyRouter$anon$importedEncoder$macro$159$1$anon$macro$157$1.class
+[debug] 	HttpServerSample$.class
+[debug] 	MyRouter$Video.class
+[debug] 	MyServer$.class
+[debug] 	MyServer.class
+[debug] 	Router.class
+[debug] 	HttpServerSample.class
+[debug] 	MyRouter$anon$importedEncoder$macro$159$1$$anon$1.class
+[debug] Removing the temporary directory used for backing up class files: C:\Users\user\Desktop\KBTU 3-1\Scala_Backend\SIS7\target\scala-2.13\classes.bak

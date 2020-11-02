@@ -1,0 +1,24 @@
+[debug] Executing Native docker build --force-rm -t akkahttp-quickstart:0.1 .
+[debug] Working directory C:\Users\user\Desktop\KBTU 3-1\Scala_Backend\SIS9\target\docker\stage
+[info] Sending build context to Docker daemon  39.17MB
+[info] Step 1/6 : FROM openjdk:8-jre-alpine
+[info]  ---> f7a292bbb70c
+[info] Step 2/6 : WORKDIR /opt/docker
+[info]  ---> Using cache
+[info]  ---> 4cfb011ff32e
+[info] Step 3/6 : ADD --chown=daemon:daemon opt /opt
+[info]  ---> Using cache
+[info]  ---> 555ba7dc1f24
+[info] Step 4/6 : USER daemon
+[info]  ---> Using cache
+[info]  ---> 289b69adb9e4
+[info] Step 5/6 : ENTRYPOINT ["/opt/docker/bin/sis9"]
+[info]  ---> Using cache
+[info]  ---> 891fe08fa065
+[info] Step 6/6 : CMD []
+[info]  ---> Using cache
+[info]  ---> fe22562a1276
+[info] Successfully built fe22562a1276
+[info] Successfully tagged akkahttp-quickstart:0.1
+[info] SECURITY WARNING: You are building a Docker image from Windows against a non-Windows Docker host. All files and directories added to build context will have '-rwxr-xr-x' permissions. It is recommended to double check and reset permissions for sensitive files and directories.
+[info] Built image akkahttp-quickstart with tags [0.1]
